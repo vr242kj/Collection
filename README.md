@@ -1,2 +1,2 @@
 # Collection
-My own implementation of collection classes
+My own implementation of collection 
